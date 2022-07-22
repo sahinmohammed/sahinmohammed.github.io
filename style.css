@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/PicsArt_07-17-11.43.46.jpg") no-repeat center;
+    background: #000000;
     height: 100vh;
     color: #fff;
     min-height: 500px;
